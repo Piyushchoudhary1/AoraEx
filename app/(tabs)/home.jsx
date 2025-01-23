@@ -47,7 +47,7 @@ const Home = () => {
                   Welcome to my
                 </Text>
                 <Text className="text-2xl font-psemibold text-white">
-                 RN app
+                  Piyush's RN app
                 </Text>
               </View>
 
